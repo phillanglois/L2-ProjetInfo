@@ -42,12 +42,16 @@ Durée : 8 séances de 3 h, avec environ 2 h de travail personnel hebdomadaire.
 
 ## Installation et lancement de jupyter
 
-- cloner le dépôt github dans un répertoire de votre choix
-`git clone https://github.com/phillanglois/L2-ProjetInfo.git`
+- cloner le dépôt github dans un répertoire de votre choix :
+```bash
+git clone https://github.com/phillanglois/L2-ProjetInfo.git
+```
 - vérifier que le fichier `pyproject.toml` est présent dans ce répertoire (de travail). Ce fichier  définit la configuration pour le gestionnaire d'environnement `uv`
-- le premier lancement de `uv run` créera automatiquement l'environnement python avec les ressources nécessaires au projet. Un fichier `uv.lock` et un répertoire `.venv` seront ajoutés à votre répertoire de travail. Ne vous en occupez pas.
+- le premier lancement de `uv run` créera automatiquement l'environnement python avec les ressources nécessaires au projet. Un fichier `uv.lock` et des répertoires `.venv` et `src` seront ajoutés à votre répertoire de travail. Ne vous en occupez pas.
 - il est utile de travailler avec `jupyter`, ce qui s'obtient en exécutant :
-`uv run --with jupyter jupyter lab` 
-Ainsi votre session jupyter a accès à l'ensemble des ressources de l'environnement
+```bash
+uv run --with jupyter jupyter lab
+``` 
+Ainsi votre session jupyter a accès à l'ensemble des ressources de l'environnement.
 
 Bon travail.
