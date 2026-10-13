@@ -1,5 +1,5 @@
 [project]
-name = "l2-projetinfomath"
+name = "l2-projetinfo"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -8,13 +8,14 @@ authors = [
 ]
 requires-python = ">=3.13"
 dependencies = [
+    "jupyter-book>=2.1.7",
     "matplotlib>=3.11.2",
     "numpy>=2.5.4",
     "pillow>=12.3.0",
 ]
 
 [project.scripts]
-l2-projetinfomath = "l2_projetinfomath:main"
+l2-projetinfo = "l2_projetinfo:main"
 
 [build-system]
 requires = ["uv_build>=0.12.9,<0.13.0"]

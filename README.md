@@ -40,11 +40,14 @@ Durée : 8 séances de 3 h, avec environ 2 h de travail personnel hebdomadaire.
 - `seance_07.ipynb` : JPEG réel et évaluation
 - `seance_08.ipynb` : validation et sujets de projet
 
-## Installation
+## Installation et lancement de jupyter
 
-`python -m pip install jupyter numpy matplotlib pillow`
+- cloner le dépôt github dans un répertoire de votre choix
+`git clone https://github.com/phillanglois/L2-ProjetInfo.git`
+- vérifier que le fichier `pyproject.toml` est présent dans ce répertoire (de travail). Ce fichier  définit la configuration pour le gestionnaire d'environnement `uv`
+- le premier lancement de `uv run` créera automatiquement l'environnement python avec les ressources nécessaires au projet. Un fichier `uv.lock` et un répertoire `.venv` seront ajoutés à votre répertoire de travail. Ne vous en occupez pas.
+- il est utile de travailler avec `jupyter`, ce qui s'obtient en exécutant :
+`uv run --with jupyter jupyter lab` 
+Ainsi votre session jupyter a accès à l'ensemble des ressources de l'environnement
 
-Lancer Jupyter dans le dossier décompressé et ouvrir les notebooks dans l'ordre.
-Chaque notebook comprend objectifs, déroulé indicatif, exercices et corrections intégrées.
-Les corrections sont visibles pour faciliter la préparation enseignante ; pour une distribution étudiante, vous pouvez masquer les cellules de correction ou fournir une version sans elles.
-
+Bon travail.
