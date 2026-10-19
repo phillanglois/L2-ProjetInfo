@@ -14,6 +14,7 @@ project:
     - title: Support hebdomadaire
       children:
         - file: seance_01.ipynb
+        - file: seance_02.ipynb
     
 site:
   template: book-theme
