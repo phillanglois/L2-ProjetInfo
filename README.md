@@ -42,12 +42,12 @@ Durée : 8 séances de 3 h, avec environ 2 h de travail personnel hebdomadaire.
 
 ## Installation et lancement de jupyter
 
-### moodle et anaconda
+### A utiliser : moodle et anaconda
 
 - Les notebooks hebdomadaires (seance_0x.ipynb) ainsi que les ressources nécessaires sont sur l'espace moodle de cette UE. 
 - Sur les machines de l'UPVD, python et jupyter (lab) sont accesibles par le navigateur anaconda.
 
-### github et uv
+### Optionnel : github et uv
 
 - cloner le dépôt github dans un répertoire de votre choix :
 ```bash
