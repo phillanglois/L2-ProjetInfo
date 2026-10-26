@@ -11,10 +11,8 @@ project:
   toc:
     - file: README.md
     - pattern: '*.ipynb'
-    
 site:
   template: book-theme
-  nav: 
-  options:
+  # options:
   #   favicon: favicon.ico
-      logo: logo2026.png
+  #   logo: logo2026.png
