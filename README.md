@@ -5,12 +5,12 @@
 Pour ce projet informatique sur le _traitement géométrique des images et la compression jpeg_, vous êtes guidé par 8 notebooks jupyter.
 
 Chaque notebook, un par semaine, introduit de façon succincte quelques notions importantes, des exercices simples pour les assimiler puis définit du travail personnel d'approfondissement -- travail qui correspond à environ 2 heures hebdomadaire supplémentaires.  
-La démarche attendue est une recherche (par exemple via wikipedia) des compléments nécessaires à une compréhension suffisante pour réaliser le travail personnel d'approfondissement.
+La démarche attendue est une recherche (par exemple via [wikipedia](fr.wikipedia.org)) des compléments nécessaires à une compréhension suffisante pour réaliser le travail personnel d'approfondissement.
 
 Les notions abordées chaque semaine constituent une "étape" du projet global. 
 Un "livrable" d'étape est défini dans chaque notebook.
 Deux sujets de projets sont proposés en fin du dernier notebook.
-Vous disposez de deux semaines pour réaliser ce projet.
+Vous disposez de deux semaines en autonomie pour réaliser ce projet.
 
 ## Contrôle de connaissance
 
