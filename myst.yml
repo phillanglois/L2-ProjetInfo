@@ -10,7 +10,12 @@ project:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
     - file: README.md
-    - pattern: '*.ipynb'
+    - file: seance_00.ipynb
+    - file: seance_01.ipynb
+    - file: seance_02.ipynb
+    - file: seance_03.ipynb
+    - file: rapport1-3.md
+    - file: seance_04.ipynb
 site:
   template: book-theme
   # options:

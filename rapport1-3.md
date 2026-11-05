@@ -4,16 +4,16 @@ L'objectif du rapport est de donner une synthèse du travail réalisé sur les t
 
 ## En quelques mots, qu'avez-vous appris ?
 
-% Votre réponse à la place de cette ligne
+/# Votre réponse à la place de cette ligne
 
-## Quelles difficultés avez vous éventuellement rencontrées ?
+## Quelles difficultés avez-vous éventuellement rencontrées ?
 
-% Votre réponse à la plce de cette ligne
+/# Votre réponse à la place de cette ligne
 
 ## Qu'avez vous aimé ou moins aimé dans cette série de séances ?
 
-% Votre réponse à la plce de cette ligne
+/# Votre réponse à la place de cette ligne
 
 ## Notes et commentaires libres
 
-% Votre réponse à la plce de cette ligne
+/# Votre réponse à la place de cette ligne
