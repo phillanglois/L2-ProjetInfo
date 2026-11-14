@@ -12,9 +12,69 @@ Un "livrable" d'étape est défini dans chaque notebook.
 Deux sujets de projets sont proposés en fin du dernier notebook.
 Vous disposez de deux semaines en autonomie pour réaliser ce projet.
 
-## Contrôle de connaissance
+## Votre notebook projet
 
-En fin de semestre, votre travail est évalué lors d'un oral individuel (semaine des examens fin décembre ou début janvier) dont les modalités seront précisées en fin de séquence (fin novembre).
+Votre travail de projet est _un_ notebook. 
+
+**Ce notebook doit pouvoir être excuté entièrement sans erreur, ni intervention de l'utilisateur ("Redemmarage du noyau et exécution de la totalité des cellules").**
+Le résultat de cette exécution sera la première démonstration possible de oral.
+
+Votre notebook commencera par :
+
+- une présentation synthétique de son organisation ;
+- la démarche que doit suivre un _utilisateur_ (pas vous) pour être exécuté sur d'autres exemples que celui de la démonstration ;
+- les éventuelles faiblesses ou problèmes non résolus du travail rendu.
+
+Il se terminera par un "rapport" organisé en quatre sections -- comme pour les rapports intermédiaires : 
+
+- en _quelques phrases_, qu'avez-vous appris ?
+- quelles difficultés avez-vous éventuellement rencontrées ?
+- qu'avez vous aimé ou moins aimé dans cette série de séances ?
+- et des notes et commentaires libres.
+
+
+## Contrôle de connaissance 
+
+En fin de semestre, votre travail est évaluée en deux temps :
+- lors d'un oral _individuel_ (semaine des examens fin décembre ou début janvier) dont les modalités pratiques seront précisées en fin de séquence (fin novembre) ; 
+- par relecture du code de votre projet.
+
+
+### Oral individuel : objectifs
+
+Pendant cet oral, vous ferez brièvement la démonstration de vos résultats.
+Vous mentionnerez les faiblesses ou problèmes non résolus de votre code. 
+Puis vous serez interrogés sur le code rendu.
+Cet échange permettra _d'évaluer_ : 
+
+* à quel point vous avez compris le sujet ;
+* jusqu'où vous avez abordé le sujet ;
+* si vous êtes capables de commenter vos choix et de les analyser ;
+* si vous êtes bien approprié le code rendu ;
+* si les contributions dans le binôme sont équilibrées.
+
+### Le code du projet : relecture 
+
+Le code de votre projet (votre notebook) sera ensuite relu (sans vous). 
+Le correcteur évaluera les points suivants.
+
+Votre notebook :
+
+* s'exécute sans erreur sur la démonstration proposée,
+* s'exécute sans erreur sur un autre cas choisi par le correcteur,
+* intègre des tests pour l'intégralité des étapes du traitement,
+* permet de charger une situation initiale différente de celle de la démontration,
+* permet de trouver une solution.
+
+Le code est clair, bien structuré et documenté :
+
+* nommage clair des fonctions et variables,
+* bon découpage des fonctions pour éviter la duplication de code,
+* pas de fonctions trop longues,
+* pas de lignes de code trop longues,
+* des spécifications claires explicitées dans le 'docstring', 
+* des commentaires utiles et courts tout au long du code.
+
 
 ## Progression pédagogique
 
