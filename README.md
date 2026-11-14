@@ -12,27 +12,6 @@ Un "livrable" d'étape est défini dans chaque notebook.
 Deux sujets de projets sont proposés en fin du dernier notebook.
 Vous disposez de deux semaines en autonomie pour réaliser ce projet.
 
-## Votre notebook projet
-
-Votre travail de projet est _un_ notebook. 
-
-**Ce notebook doit pouvoir être excuté entièrement sans erreur, ni intervention de l'utilisateur ("Redemmarage du noyau et exécution de la totalité des cellules").**
-Le résultat de cette exécution sera la première démonstration possible de oral.
-
-Votre notebook commencera par :
-
-- une présentation synthétique de son organisation ;
-- la démarche que doit suivre un _utilisateur_ (pas vous) pour être exécuté sur d'autres exemples que celui de la démonstration ;
-- les éventuelles faiblesses ou problèmes non résolus du travail rendu.
-
-Il se terminera par un "rapport" organisé en quatre sections -- comme pour les rapports intermédiaires : 
-
-- en _quelques phrases_, qu'avez-vous appris ?
-- quelles difficultés avez-vous éventuellement rencontrées ?
-- qu'avez vous aimé ou moins aimé dans cette série de séances ?
-- et des notes et commentaires libres.
-
-
 ## Contrôle de connaissance 
 
 En fin de semestre, votre travail est évaluée en deux temps :
@@ -75,6 +54,25 @@ Le code est clair, bien structuré et documenté :
 * des spécifications claires explicitées dans le 'docstring', 
 * des commentaires utiles et courts tout au long du code.
 
+### Votre notebook projet
+
+Votre travail de projet est _un_ notebook. 
+
+**Ce notebook doit pouvoir être excuté entièrement sans erreur, ni intervention de l'utilisateur ("Redemmarage du noyau et exécution de la totalité des cellules").**
+Le résultat de cette exécution sera la première démonstration possible de oral.
+
+Votre notebook commencera par :
+
+- une présentation synthétique de son organisation ;
+- la démarche que doit suivre un _utilisateur_ (pas vous) pour être exécuté sur d'autres exemples que celui de la démonstration ;
+- les éventuelles faiblesses ou problèmes non résolus du travail rendu.
+
+Il se terminera par un "rapport" organisé en quatre sections -- comme pour les rapports intermédiaires : 
+
+- en _quelques phrases_, qu'avez-vous appris ?
+- quelles difficultés avez-vous éventuellement rencontrées ?
+- qu'avez vous aimé ou moins aimé dans cette série de séances ?
+- et des notes et commentaires libres.
 
 ## Progression pédagogique
 
