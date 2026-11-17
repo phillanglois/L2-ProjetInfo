@@ -16,6 +16,7 @@ project:
     - file: seance_03.ipynb
     - file: rapport1a3.md
     - file: seance_04.ipynb
+    - file: seance_05.ipynb
 
 site:
   template: book-theme
